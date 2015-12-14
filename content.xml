@@ -1,0 +1,46 @@
+<lesson>
+	<version>1</version>
+	<word>
+		<pictogram>鬲-order</pictogram>
+		<pinyin>Gé</pinyin>
+		<translations>
+			<translation>earthen pot / iron cauldron</translation>
+		</translations>
+		<note>Can also be a surname</note>
+		<audio>test.ogg</audio>
+	</word>
+	<word>
+		<pictogram>飞-order</pictogram>
+		<pinyin>fēi</pinyin>
+		<translations>
+			<translation>to fly</translation>
+		</translations>
+		<sentences>
+			<sentence>can you fly?</sentence>
+		</sentences>
+		<note>looks like a bird?</note>
+	</word>
+	<word>
+		<pictogram>釆-order</pictogram>
+		<pinyin>biàn</pinyin>
+		<translations>
+			<translation>to distinguish / to recognize</translation>
+		</translations>
+		<sentences>
+			<sentence>eat a banana</sentence>
+			<sentence>bananas are healthy</sentence>
+			<sentence>yellow is the bananas color</sentence>
+			<sentence>the yellower a banana is the better it is</sentence>
+			<sentence>more bananas better bananas</sentence>
+			<sentence>eat eat eat BANANAS</sentence>
+		</sentences>
+		<note></note>
+	</word>
+	<word>
+		<pictogram>衣-order</pictogram>
+		<pinyin>yī</pinyin>
+		<translations>
+			<translation>clothes</translation>
+		</translations>
+	</word>
+</lesson>
